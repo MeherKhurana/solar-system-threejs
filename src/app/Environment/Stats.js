@@ -8,7 +8,5 @@ define(function() {
   stats.domElement.style.left = '0px';
   stats.domElement.style.bottom = '0px';
 
-  // document.body.appendChild(stats.domElement);
-
   return stats;
 });
